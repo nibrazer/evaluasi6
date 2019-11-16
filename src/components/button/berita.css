@@ -1,0 +1,10 @@
+.img{
+    margin: 30px;
+    text-align: left;
+    display: grid;
+    grid-template-columns: 1fr 4fr;
+}
+.berita{ 
+    position: relative;
+    bottom: 8px;
+}
